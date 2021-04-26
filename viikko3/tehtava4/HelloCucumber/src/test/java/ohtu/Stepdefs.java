@@ -27,6 +27,12 @@ public class Stepdefs {
     @When("it is incremented by {int}")
     public void itIsIncrementedBy(Integer val) {
          counter.increment(val);       
-    }    
+    }   
+    @When("it is reset")
+    public void itIsReset() {
+        // Write code here that turns the phrase above into concrete actions
+        counter.reset();
+}
+
 
 }
