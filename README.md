@@ -11,3 +11,11 @@ Viikko 3
 [Tehtävä 4](https://github.com/Alex-Elias/ohtu-tehtavat/tree/main/viikko3/tehtava4/HelloCucumber)
 [Tehtävät 5-6](https://github.com/Alex-Elias/ohtu-tehtavat/tree/main/viikko3/tehtavat5-6/LoginCucumber)
 [Tehtävät 7-11](https://github.com/Alex-Elias/ohtu-tehtavat/tree/main/viikko3/tehtavat7-11/WebLogin)
+
+Viikko4
+[Tehtävä 1](https://github.com/Alex-Elias/ohtu-tehtavat/tree/main/viikko4/tehtava1/MockitoDemo)
+[Tehtävä 2](https://github.com/Alex-Elias/ohtu-tehtavat/tree/main/viikko4/tehtava2/MaksukorttiMockito)
+[Tehtävät 3-4](https://github.com/Alex-Elias/ohtu-tehtavat/tree/main/viikko4/tehtavat3-4/Verkkokauppa)
+[Tehtävät 5](https://github.com/Alex-Elias/ohtu-tehtavat/tree/main/viikko4/tehtava5/IntJoukkoSovellus)
+
+
