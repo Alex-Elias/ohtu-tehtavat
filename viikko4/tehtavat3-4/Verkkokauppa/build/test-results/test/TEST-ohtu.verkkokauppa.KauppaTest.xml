@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.verkkokauppa.KauppaTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-04-27T13:26:33" hostname="alex-Z97P-D3" time="0.571">
+  <properties/>
+  <testcase name="aloitaAsiointiZerosPreviousPurchasesInformation" classname="ohtu.verkkokauppa.KauppaTest" time="0.555"/>
+  <testcase name="tilimaksuCallsPankkiMethodWithCorrectAsiakasNumberAndSumWithMultipleDifferentItemsWhichOneIsEmpty" classname="ohtu.verkkokauppa.KauppaTest" time="0.003"/>
+  <testcase name="tilimaksuCallsPankkiMethodWithCorrectAsiakasNumberAndSum" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
+  <testcase name="tilimaksuCallsPankkiMethodWithCorrectAsiakasNumberAndSumWithTwoOfSameItem" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
+  <testcase name="newViitenumeroIsCalledEveryTime" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiaTilisiirtoKutsutaan" classname="ohtu.verkkokauppa.KauppaTest" time="0.001"/>
+  <testcase name="poistaKoristaRemovesItemFromBasket" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
+  <testcase name="tilimaksuCallsPankkiMethodWithCorrectAsiakasNumberAndSumWithMultipleDifferentItems" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
